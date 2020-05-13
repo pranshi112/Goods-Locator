@@ -1,6 +1,6 @@
 # Goods-Locator
 
-A web service __to make the essentials available__ to the citizens by __linking the registered/unregistered organizations or individuals__, willing to contribute during the corona pandemic outbreak. Our web service provides a platform to these individuals. This web service __can even be used other than during the pandemic outbreak__, to provide services to everyone and a platform to small scale production houses and retailers to sell their products.
+A web service __to make the essentials available__ to the citizens by __linking the registered/unregistered organizations or individuals__, willing to contribute during the corona pandemic outbreak. This web service provides a platform to these individuals. This web service __can even be used other than during the pandemic outbreak__, to provide services to everyone and a platform to small scale production houses and retailers to sell their products.
 
 ## Features
 
